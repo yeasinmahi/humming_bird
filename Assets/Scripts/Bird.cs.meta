@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a7b6c3c92814963468f725f65e5a9b13
+timeCreated: 1510599465
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flapSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
